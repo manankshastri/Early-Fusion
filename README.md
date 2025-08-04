@@ -1,10 +1,10 @@
-# LiDAR-Camera Fusion using KITTI, Mask-RCNN
+# ---LiDAR-Camera Fusion using KITTI, Mask-RCNN---
 <p align=center>
  <img src="output.gif"/>
 </p>
 
-## input
+## ---input---
 ![input](/download1.png)
 
-## output
+## ---output---
 ![output](/download2.png)
